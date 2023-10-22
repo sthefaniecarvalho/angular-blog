@@ -1,0 +1,13 @@
+.container-articles {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+main {
+  border: 1px solid red;
+}
+
+
