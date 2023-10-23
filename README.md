@@ -4,12 +4,15 @@ Travel blog using Angular.
 🚧 In progress...  🚧
 
 - Project as part of <a href="https://web.dio.me/">DIO</a> Bootcamp FullStack - Java + Angular
+  
+- Live Site URL: <a href="https://blog-viagens.netlify.app/" target="_blank"> https://blog-viagens.netlify.app/</a>
 
 ## 🛠 Tecnologias
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [TypeScript](https://www.typescriptlang.org/docs/)
 - [Angular](https://angular.io/docs)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
 
