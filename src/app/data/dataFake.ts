@@ -11,7 +11,6 @@ export const dataFake = [
     "photoCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlvgUXVF1t_De6k3oKjiygXJiNKibTAbswUA&usqp=CAU",
     "contentTitle":"Roma",
     "contentDescription": "Roma, a capital da Itália, é uma cidade cosmopolita, enorme, com quase 3.000 anos de arte, arquitetura e cultura influentes no mundo todo e à mostra. Ruínas antigas como o Fórum e o Coliseu evocam o poder do antigo Império Romano. A Cidade do Vaticano, sede da Igreja Católica Romana, tem a Basílica de São Pedro e os museus do Vaticano, que abrigam obras-primas como os afrescos da Capela Sistina de Michelângelo.",
-    "contentImages": ["https://www.tudosobreroma.com/f/italia/roma/galeria/thumbs/foro-romano.jpg", "https://www.tudosobreroma.com/f/italia/roma/galeria/thumbs/fontana-trevi.jpg", "https://ichef.bbci.co.uk/news/640/cpsprodpb/31b4/live/46410070-c2ce-11ed-9ef5-91ab7d4e854c.jpg"]
   },
   {
     "id":"3",

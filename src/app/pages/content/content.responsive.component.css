@@ -1,0 +1,10 @@
+@media screen and (min-width: 576px) {
+  .content-cover > img {
+    min-width: 500px;
+  }
+
+  .content-description {
+    width: 700px;
+  }
+
+}

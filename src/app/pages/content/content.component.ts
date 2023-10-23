@@ -5,14 +5,13 @@ import { dataFake } from '../../data/dataFake';
 @Component({
   selector: 'app-content',
   templateUrl: './content.component.html',
-  styleUrls: ['./content.component.css']
+  styleUrls: ['./content.component.css','./content.responsive.component.css']
 })
 export class ContentComponent implements OnInit {
 
   photoCover:string = "";
   contentTitle:string = "";
   contentDescription:string = "";
-  contentImages:string[] | undefined = [];
   private id:string | null = "0";
 
   constructor(
@@ -32,6 +31,5 @@ export class ContentComponent implements OnInit {
     this.photoCover = result.photoCover;
     this.contentTitle = result.contentTitle;
     this.contentDescription = result.contentDescription;
-    this.contentImages = result.contentImages;
   }
 }
